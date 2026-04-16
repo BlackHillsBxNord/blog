@@ -1,0 +1,30 @@
+site_name: Zer0droid
+site_description: Red team. Research. Raw thoughts.
+site_author: Mohammed Al-Rawahi
+site_url: https://zer0droid.github.io/blog
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep orange
+  font:
+    text: JetBrains Mono
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
