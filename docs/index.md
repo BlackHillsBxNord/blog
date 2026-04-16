@@ -1,6 +1,6 @@
 # Zer0droid
 
-Documenting things that matter to me.
+Documenting things that matter to me
 
 CyberSecurity. Research. Tools. Whatever else catches my attention.
 
