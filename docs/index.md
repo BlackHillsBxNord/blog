@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Zer0droid
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Documenting things that matter to me.
 
-## Commands
+CyberSecurity. Research. Tools. Whatever else catches my attention.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Topics
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Red team & offensive security
+- Psychology & behavior
+- Operational security & OPSEC
+- Tooling & automation
+- Research & notes
+- Everything else
