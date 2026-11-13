@@ -1,0 +1,5 @@
+/* primary: black has no usable link color on the dark scheme (falls back to
+   indigo #4051b5); use the deep-orange accent for content links instead */
+[data-md-color-primary=black] {
+  --md-typeset-a-color: #ff6e40;
+}
