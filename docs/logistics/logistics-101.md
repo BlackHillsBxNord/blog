@@ -21,6 +21,23 @@ Every logistics system, from Amazon to a sanctions-evasion network, decomposes i
 - **Links** — the routes between them: sea lanes, air corridors, rail lines, roads, pipelines.
 - **Modes** — how cargo physically moves: container ship, bulk carrier, air freight, truck, rail, mule, dhow.
 
+<svg viewBox="0 0 720 240" width="100%" role="img" aria-label="Nodes, links, and modes — the three primitives of any logistics system" style="max-width:720px">
+  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
+    <rect x="20" y="80" width="180" height="70" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="110" y="109" fill="#e6e9ee" font-size="16">NODE</text>
+    <text x="110" y="132" fill="rgba(230,233,238,0.55)" font-size="13">port · warehouse</text>
+    <line x1="204" y1="115" x2="516" y2="115" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="516,110 528,115 516,120" fill="rgba(255,255,255,0.4)"/>
+    <rect x="240" y="52" width="240" height="34" rx="6" fill="none" stroke="#ff6e40" stroke-dasharray="5 3"/>
+    <text x="360" y="74" fill="#ff6e40" font-size="13">LINK — the route</text>
+    <text x="360" y="150" fill="rgba(230,233,238,0.55)" font-size="13">MODE — ship · rail · truck · air</text>
+    <rect x="522" y="80" width="180" height="70" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="612" y="109" fill="#e6e9ee" font-size="16">NODE</text>
+    <text x="612" y="132" fill="rgba(230,233,238,0.55)" font-size="13">hub · buyer · port</text>
+    <text x="360" y="215" fill="rgba(230,233,238,0.45)" font-size="13">every logistics system — legal or not — is these three primitives, repeated</text>
+  </g>
+</svg>
+
 That's it. Everything else — customs brokers, bills of lading, freight forwarders, letters of credit, AIS transponders — is *coordination overhead* layered on top of nodes, links, and modes to make the seven Rs verifiable between parties who don't trust each other.
 
 That last sentence is the whole reason this field matters to security people. **Logistics is trust made mechanical.** And anywhere trust is mechanical, it can be spoofed, forged, or bought.
