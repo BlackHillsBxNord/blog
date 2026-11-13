@@ -42,6 +42,7 @@ nav:
   - OPSEC: opsec/index.md
   - Psychology: psychology/index.md
   - Research: research/index.md
+  - Logistics: logistics/index.md
   - Tags: tags.md
 
 exclude_docs: |
