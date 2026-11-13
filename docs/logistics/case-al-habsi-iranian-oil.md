@@ -28,38 +28,47 @@ The window ran December 2019 to July 2021. The scale the indictment pleads: an a
 
 Before a single barrel moved, the network built its ownership maze — the "scrub the identity" layer from the 101 post, precisely mapped by OFAC's designation:
 
-<svg viewBox="0 0 720 620" width="100%" role="img" aria-label="Corporate graph of the Al Habsi network" style="max-width:720px">
+<svg viewBox="0 0 720 660" width="100%" role="img" aria-label="Corporate graph of the Al Habsi network" style="max-width:720px">
   <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <rect x="210" y="15" width="300" height="66" rx="6" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.3)"/>
-    <text x="360" y="44" fill="#e6e9ee" font-size="18">AL HABSI</text>
-    <text x="360" y="66" fill="rgba(230,233,238,0.55)" font-size="13">oil trader · Oman</text>
-    <line x1="360" y1="81" x2="123" y2="125" stroke="rgba(255,255,255,0.25)"/>
-    <line x1="360" y1="81" x2="360" y2="125" stroke="rgba(255,255,255,0.25)"/>
-    <line x1="360" y1="81" x2="597" y2="125" stroke="rgba(255,255,255,0.25)"/>
-    <rect x="10" y="125" width="226" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="123" y="154" fill="#e6e9ee" font-size="14.5">Nimr International LLC</text>
-    <text x="123" y="177" fill="rgba(230,233,238,0.55)" font-size="12.5">Oman · Iraq · UAE</text>
-    <rect x="247" y="125" width="226" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="154" fill="#e6e9ee" font-size="14.5">Nimr International SRL</text>
-    <text x="360" y="177" fill="rgba(230,233,238,0.55)" font-size="12.5">Romania</text>
-    <rect x="484" y="125" width="226" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="597" y="154" fill="#e6e9ee" font-size="14.5">Bravery Maritime Corp</text>
-    <text x="597" y="177" fill="rgba(230,233,238,0.55)" font-size="12.5">Liberia · Dubai</text>
-    <line x1="123" y1="199" x2="123" y2="255" stroke="rgba(255,255,255,0.25)"/>
-    <line x1="597" y1="199" x2="597" y2="255" stroke="rgba(255,255,255,0.25)"/>
-    <rect x="10" y="255" width="226" height="66" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="123" y="282" fill="#e6e9ee" font-size="14.5">Orbit Petrochemicals</text>
-    <text x="123" y="304" fill="rgba(230,233,238,0.55)" font-size="12.5">Oman · trading arm</text>
-    <rect x="484" y="255" width="226" height="66" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="597" y="282" fill="#e6e9ee" font-size="14.5">M/T Oman Pride</text>
-    <text x="597" y="304" fill="rgba(230,233,238,0.55)" font-size="12.5">IMO 9153525</text>
-    <rect x="10" y="380" width="320" height="60" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="170" y="405" fill="#e6e9ee" font-size="15">WANG SHAOYUN</text>
-    <text x="170" y="426" fill="rgba(230,233,238,0.55)" font-size="12.5">front companies · Las Vegas · HK</text>
-    <rect x="390" y="380" width="320" height="60" rx="6" fill="none" stroke="#ff6e40" stroke-dasharray="5 3"/>
-    <text x="550" y="405" fill="#ff6e40" font-size="15">IRGC-QODS FORCE · Ghasemi</text>
-    <text x="550" y="426" fill="rgba(255,110,64,0.75)" font-size="12.5">the client · 70% split</text>
-    <line x1="330" y1="410" x2="390" y2="410" stroke="#ff6e40" stroke-dasharray="5 3" opacity="0.5"/>
+    <rect x="200" y="12" width="320" height="82" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.3)"/>
+    <text x="360" y="34" fill="rgba(230,233,238,0.45)" font-size="11.5">PERSON</text>
+    <text x="360" y="56" fill="#e6e9ee" font-size="17">AL HABSI</text>
+    <text x="360" y="78" fill="rgba(230,233,238,0.55)" font-size="12.5">oil trader · Oman</text>
+    <line x1="360" y1="94" x2="123" y2="138" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="360" y1="94" x2="360" y2="138" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="360" y1="94" x2="597" y2="138" stroke="rgba(255,255,255,0.25)"/>
+    <rect x="10" y="138" width="226" height="88" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="123" y="158" fill="rgba(230,233,238,0.45)" font-size="11.5">COMPANY</text>
+    <text x="123" y="180" fill="#e6e9ee" font-size="14.5">Nimr International LLC</text>
+    <text x="123" y="202" fill="rgba(230,233,238,0.55)" font-size="12.5">Oman · Iraq · UAE</text>
+    <rect x="247" y="138" width="226" height="88" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="158" fill="rgba(230,233,238,0.45)" font-size="11.5">COMPANY</text>
+    <text x="360" y="180" fill="#e6e9ee" font-size="14.5">Nimr International SRL</text>
+    <text x="360" y="202" fill="rgba(230,233,238,0.55)" font-size="12.5">Romania</text>
+    <rect x="484" y="138" width="226" height="88" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="597" y="158" fill="rgba(230,233,238,0.45)" font-size="11.5">COMPANY</text>
+    <text x="597" y="180" fill="#e6e9ee" font-size="14.5">Bravery Maritime Corp</text>
+    <text x="597" y="202" fill="rgba(230,233,238,0.55)" font-size="12.5">Liberia · Dubai</text>
+    <line x1="123" y1="226" x2="123" y2="282" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="597" y1="226" x2="597" y2="282" stroke="rgba(255,255,255,0.25)"/>
+    <rect x="10" y="282" width="226" height="88" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="123" y="302" fill="rgba(230,233,238,0.45)" font-size="11.5">COMPANY</text>
+    <text x="123" y="324" fill="#e6e9ee" font-size="14.5">Orbit Petrochemicals</text>
+    <text x="123" y="346" fill="rgba(230,233,238,0.55)" font-size="12.5">Oman · trading arm</text>
+    <rect x="484" y="282" width="226" height="88" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="597" y="302" fill="rgba(230,233,238,0.45)" font-size="11.5">TANKER</text>
+    <text x="597" y="324" fill="#e6e9ee" font-size="14.5">M/T Oman Pride</text>
+    <text x="597" y="346" fill="rgba(230,233,238,0.55)" font-size="12.5">IMO 9153525 · VLCC</text>
+    <rect x="10" y="418" width="320" height="82" rx="18" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="170" y="440" fill="rgba(230,233,238,0.45)" font-size="11.5">PERSON</text>
+    <text x="170" y="462" fill="#e6e9ee" font-size="15">WANG SHAOYUN</text>
+    <text x="170" y="484" fill="rgba(230,233,238,0.55)" font-size="12.5">front companies · Las Vegas · HK</text>
+    <rect x="390" y="418" width="320" height="82" rx="6" fill="none" stroke="#ff6e40" stroke-dasharray="5 3"/>
+    <text x="550" y="440" fill="rgba(255,110,64,0.65)" font-size="11.5">ORGANIZATION</text>
+    <text x="550" y="462" fill="#ff6e40" font-size="15">IRGC-QODS FORCE · Ghasemi</text>
+    <text x="550" y="484" fill="rgba(255,110,64,0.75)" font-size="12.5">the client · 70% split</text>
+    <line x1="330" y1="459" x2="390" y2="459" stroke="#ff6e40" stroke-dasharray="5 3" opacity="0.5"/>
+    <text x="360" y="555" fill="rgba(230,233,238,0.4)" font-size="12">rounded = person · square = company · dashed orange = sanctioned client</text>
   </g>
 </svg>
 
