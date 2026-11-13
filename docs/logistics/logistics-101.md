@@ -29,7 +29,7 @@ That last sentence is the whole reason this field matters to security people. **
 
 ### Commercial / supply chain logistics
 
-The big one: roughly 90% of world trade by volume moves by sea. Container shipping, bulk commodities, tankers, air cargo, and the warehouse-and-truck "last mile" that puts it in your hands.
+The big one: more than 80% of world trade by volume moves by sea. Container shipping, bulk commodities, tankers, air cargo, and the warehouse-and-truck "last mile" that puts it in your hands.
 
 Commercial logistics runs on documents as much as ships. The *bill of lading* (B/L) is the key one: it's simultaneously a cargo receipt, a contract of carriage, and proof of ownership. Present the original B/L at destination, collect the goods. Banks finance shipments against these papers through letters of credit. In a very real sense, world trade is a document-processing system with ships attached.
 
@@ -37,10 +37,10 @@ Commercial logistics runs on documents as much as ships. The *bill of lading* (B
     The techniques below are all documented in US Treasury/OFAC designations, DOJ indictments, and UN Panel of Experts reporting. The anatomy of an evasion scheme:
 
     - **Go dark.** Ships carry an AIS transponder that broadcasts identity and GPS-derived position. The UN Panel of Experts on North Korea documented vessels switching AIS off before illicit ship-to-ship (STS) transfers of coal and fuel — the "dark period" is itself a detection signal.
-    - **Spoof the position.** AIS is unauthenticated and trivially forged. Analysts (notably C4ADS in its work on North Korea's fleet) have caught vessels broadcasting *fake* AIS positions — appearing to sit in one port while physically transferring cargo elsewhere. You can buy AIS spoofing as a service.
+    - **Spoof the position.** AIS is unauthenticated and trivially forged. Analysts (notably C4ADS in its work on North Korea's fleet) have caught vessels broadcasting *fake* AIS positions — appearing to sit in one port while physically transferring cargo elsewhere. Maritime-intelligence firms (e.g. Windward's published analyses) describe a commercial market in AIS manipulation — spoofing as a service.
     - **Scrub the identity.** "Flag-hopping" — repeatedly re-registering the ship under new flag states — plus layered shell ownership and repeated renames make beneficial ownership a maze. This is the modern "gray fleet": aging tankers with opaque owners, first observed at scale moving sanctioned Russian and Iranian crude.
     - **Forge the paper.** Falsified or forged bills of lading misdeclare origin ("this isn't Iranian crude, it's Omani blend"), enabling the cargo to enter legitimate finance. The DOJ's case against Omani broker Mahmood Al Habsi and Chinese national Wang Shaoyun alleges exactly this: Iranian oil relabeled and sold into the legal market, payments laundered through US banks.
-    - **Blend it.** Mixing sanctioned cargo with clean product at a compliant port makes the tainted fraction statistically deniable.
+    - **Blend it.** Mixing sanctioned cargo with clean product at a compliant port makes the tainted fraction statistically deniable — documented in Reuters reporting on Iranian crude blended in Malaysian waters before delivery to China, and in UN Panel of Experts reporting on blended petroleum exports.
 
     The inspection side — how analysts catch this — is beautiful OSINT: AIS gap analysis, satellite imagery of STS transfers at known anchorage hotspots, hull-number mismatch (transponder says one ship, imagery shows another), and corporate-registry pivoting on shell owners. U.S. government sources on the Al Habsi case: [FBI wanted page](https://www.fbi.gov/wanted/counterintelligence/mahmood-rashid-amur-al-habsi), [DOJ press release](https://www.justice.gov/usao-dc/pr/two-individuals-charged-trafficking-illicit-iranian-oil-using-us-financial-system-fund), [Rewards for Justice](https://rewardsforjustice.net/rewards/wang-shaoyun-mahmood-rashid-amur-al-habsi-and-associated-individuals-and-companies).
 
@@ -56,14 +56,14 @@ The branch with the oldest pedigree — the word itself comes from war. Amateurs
 Moving food, medicine, and shelter into crisis zones — often the hardest logistics on Earth: destroyed infrastructure, no functioning customs authority, and armed actors at every node. Organizations like the WFP's logistics arm run entire shipping lines and airlifts.
 
 ??? example "How it gets gamed: aid diversion"
-    The UN's own reporting (including UN Panel of Experts findings on Somalia and the WFP's 2019 suspension of operations in Yemen over diversion) documents aid diverted by armed groups and coordinated networks: siphoning from convoys, falsifying beneficiary lists, and taxing access to routes. The security lesson: in any low-trust environment, the *distribution layer* is the softest target — the last mile is where verification is weakest and local power structures interpose themselves.
+    The UN's own reporting (including UN Panel of Experts findings on Somalia and the WFP's 2019 partial suspension of food aid distributions in Yemen over diversion) documents aid diverted by armed groups and coordinated networks: siphoning from convoys, falsifying beneficiary lists, and taxing access to routes. The security lesson: in any low-trust environment, the *distribution layer* is the softest target — the last mile is where verification is weakest and local power structures interpose themselves.
 
 ### Event & reverse logistics
 
 Two smaller but instructive branches. **Event logistics** moves enormous volumes on brutal one-shot deadlines (think Olympics or a military deployment). **Reverse logistics** is everything flowing *backwards*: returns, repairs, recycling, end-of-life.
 
 ??? example "How it gets gamed: returns fraud"
-    Reverse flows are fraud magnets because legitimate reverse traffic is anomalous by nature — irregular, poorly documented, priced by disposal logic rather than market logic. Documented patterns in retail and e-commerce crime reporting include returns of stolen goods for cash, counterfeit-for-genuine swaps (buy real, return fake), and brute-force refund fraud. It's the same principle as cargo blending: a channel with intentionally noisy baselines is where anomalies hide best.
+    Reverse flows are fraud magnets because legitimate reverse traffic is anomalous by nature — irregular, poorly documented, priced by disposal logic rather than market logic. Documented patterns include returns of stolen goods for cash, counterfeit-for-genuine swaps (buy real, return fake), and brute-force refund fraud — tracked annually in the NRF's National Retail Security Survey and prosecuted in organized retail-crime cases. It's the same principle as cargo blending: a channel with intentionally noisy baselines is where anomalies hide best.
 
 ## The referees: sanctions & export controls
 
@@ -83,6 +83,6 @@ It's a cat-and-mouse with real stakes: the mouse gets indicted, the cat gets a $
 
 Everything above — dark AIS, STS transfers, forged bills of lading, shell ownership — isn't hypothetical. It's the alleged operating model of a real, indicted network.
 
-In the next post I'll take apart the case of **Mahmood Rashid Amur Al Habsi**, the Omani oil broker on the FBI's Most Wanted list: how a few hundred million dollars of Iranian crude allegedly moved from sanctioned wells to willing buyers, which of the tricks from this post the network used at each stage, and how investigators unpicked it. Logistics 101, graded on a real exam.
+In the next post I'll take apart the case of **Mahmood Rashid Amur Al Habsi**, the Omani oil broker on the FBI's wanted list: how a few hundred million dollars of Iranian crude allegedly moved from sanctioned wells to willing buyers, which of the tricks from this post the network used at each stage, and how investigators unpicked it. Logistics 101, graded on a real exam.
 
 *Tags: [logistics](../tags.md#tag:logistics) · [sanctions-evasion](../tags.md#tag:sanctions-evasion) · [osint](../tags.md#tag:osint)*
