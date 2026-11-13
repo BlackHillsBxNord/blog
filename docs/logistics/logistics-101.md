@@ -33,7 +33,7 @@ The big one: more than 80% of world trade by volume moves by sea. Container ship
 
 Commercial logistics runs on documents as much as ships. The *bill of lading* (B/L) is the key one: it's simultaneously a cargo receipt, a contract of carriage, and proof of ownership. Present the original B/L at destination, collect the goods. Banks finance shipments against these papers through letters of credit. In a very real sense, world trade is a document-processing system with ships attached.
 
-??? warning "How it gets gamed: the gray fleet playbook"
+??? quote "How it gets gamed: the gray fleet playbook"
     The techniques below are all documented in US Treasury/OFAC designations, DOJ indictments, and UN Panel of Experts reporting. The anatomy of an evasion scheme:
 
     - **Go dark.** Ships carry an AIS transponder that broadcasts identity and GPS-derived position. The UN Panel of Experts on North Korea documented vessels switching AIS off before illicit ship-to-ship (STS) transfers of coal and fuel — the "dark period" is itself a detection signal.
@@ -48,21 +48,21 @@ Commercial logistics runs on documents as much as ships. The *bill of lading* (B
 
 The branch with the oldest pedigree — the word itself comes from war. Amateurs talk tactics; professionals talk logistics, because an army that can't be fed, fueled, and resupplied stops being an army. Military logistics is the same nodes/links/modes triad under an adversary trying to destroy your links.
 
-??? warning "How it gets gamed: proxy resupply"
+??? quote "How it gets gamed: proxy resupply"
     States under sanctions don't move cargo with flagged military transports — they outsource to deniable civilian logistics. UN Panel of Experts reporting on Iran has documented small arms and components moving to proxy forces via unremarkable civilian dhows and trucks across the Gulf and land corridors: no flags, no manifests, mixed in with legitimate fishing and trade traffic. The evasion principle is *camouflage by context* — make your link indistinguishable from the environment's normal traffic. It's the physical version of hiding a C2 channel in ordinary HTTPS.
 
 ### Humanitarian logistics
 
 Moving food, medicine, and shelter into crisis zones — often the hardest logistics on Earth: destroyed infrastructure, no functioning customs authority, and armed actors at every node. Organizations like the WFP's logistics arm run entire shipping lines and airlifts.
 
-??? warning "How it gets gamed: aid diversion"
+??? quote "How it gets gamed: aid diversion"
     The UN's own reporting (including UN Panel of Experts findings on Somalia and the WFP's 2019 partial suspension of food aid distributions in Yemen over diversion) documents aid diverted by armed groups and coordinated networks: siphoning from convoys, falsifying beneficiary lists, and taxing access to routes. The security lesson: in any low-trust environment, the *distribution layer* is the softest target — the last mile is where verification is weakest and local power structures interpose themselves.
 
 ### Event & reverse logistics
 
 Two smaller but instructive branches. **Event logistics** moves enormous volumes on brutal one-shot deadlines (think Olympics or a military deployment). **Reverse logistics** is everything flowing *backwards*: returns, repairs, recycling, end-of-life.
 
-??? warning "How it gets gamed: returns fraud"
+??? quote "How it gets gamed: returns fraud"
     Reverse flows are fraud magnets because legitimate reverse traffic is anomalous by nature — irregular, poorly documented, priced by disposal logic rather than market logic. Documented patterns include returns of stolen goods for cash, counterfeit-for-genuine swaps (buy real, return fake), and brute-force refund fraud — tracked annually in the NRF's National Retail Security Survey and prosecuted in organized retail-crime cases. It's the same principle as cargo blending: a channel with intentionally noisy baselines is where anomalies hide best.
 
 ## The referees: sanctions & export controls
