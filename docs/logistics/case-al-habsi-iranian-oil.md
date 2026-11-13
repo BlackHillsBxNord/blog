@@ -28,38 +28,38 @@ The window ran December 2019 to July 2021. The scale the indictment pleads: an a
 
 Before a single barrel moved, the network built its ownership maze — the "scrub the identity" layer from the 101 post, precisely mapped by OFAC's designation:
 
-<svg viewBox="0 0 920 410" width="100%" role="img" aria-label="Corporate graph of the Al Habsi network" style="max-width:920px">
+<svg viewBox="0 0 720 620" width="100%" role="img" aria-label="Corporate graph of the Al Habsi network" style="max-width:720px">
   <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <rect x="340" y="18" width="240" height="62" rx="6" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.3)"/>
-    <text x="460" y="45" fill="#e6e9ee" font-size="17">AL HABSI</text>
-    <text x="460" y="66" fill="rgba(230,233,238,0.55)" font-size="12.5">oil trader · Oman</text>
-    <line x1="460" y1="80" x2="135" y2="124" stroke="rgba(255,255,255,0.25)"/>
-    <line x1="460" y1="80" x2="460" y2="124" stroke="rgba(255,255,255,0.25)"/>
-    <line x1="460" y1="80" x2="785" y2="124" stroke="rgba(255,255,255,0.25)"/>
-    <rect x="15" y="124" width="240" height="70" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="135" y="152" fill="#e6e9ee" font-size="14.5">Nimr International LLC</text>
-    <text x="135" y="173" fill="rgba(230,233,238,0.55)" font-size="12">Oman · Iraq · UAE</text>
-    <rect x="340" y="124" width="240" height="70" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="460" y="152" fill="#e6e9ee" font-size="14.5">Nimr International SRL</text>
-    <text x="460" y="173" fill="rgba(230,233,238,0.55)" font-size="12">Romania</text>
-    <rect x="665" y="124" width="240" height="70" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="785" y="152" fill="#e6e9ee" font-size="14.5">Bravery Maritime Corp</text>
-    <text x="785" y="173" fill="rgba(230,233,238,0.55)" font-size="12">Liberia · Dubai</text>
-    <line x1="135" y1="194" x2="135" y2="250" stroke="rgba(255,255,255,0.25)"/>
-    <line x1="785" y1="194" x2="785" y2="250" stroke="rgba(255,255,255,0.25)"/>
-    <rect x="15" y="250" width="240" height="62" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="135" y="276" fill="#e6e9ee" font-size="14.5">Orbit Petrochemicals</text>
-    <text x="135" y="296" fill="rgba(230,233,238,0.55)" font-size="12">Oman · trading arm</text>
-    <rect x="665" y="250" width="240" height="62" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="785" y="276" fill="#e6e9ee" font-size="14.5">M/T Oman Pride</text>
-    <text x="785" y="296" fill="rgba(230,233,238,0.55)" font-size="12">IMO 9153525</text>
-    <rect x="15" y="344" width="300" height="56" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="165" y="367" fill="#e6e9ee" font-size="14.5">WANG SHAOYUN</text>
-    <text x="165" y="387" fill="rgba(230,233,238,0.55)" font-size="12">front companies · Las Vegas · HK</text>
-    <rect x="605" y="344" width="300" height="56" rx="6" fill="none" stroke="#ff6e40" stroke-dasharray="5 3"/>
-    <text x="755" y="367" fill="#ff6e40" font-size="14.5">IRGC-QODS FORCE · Ghasemi</text>
-    <text x="755" y="387" fill="rgba(255,110,64,0.7)" font-size="12">the client · 70% split</text>
-    <line x1="315" y1="372" x2="605" y2="372" stroke="#ff6e40" stroke-dasharray="5 3" opacity="0.5"/>
+    <rect x="210" y="15" width="300" height="66" rx="6" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.3)"/>
+    <text x="360" y="44" fill="#e6e9ee" font-size="18">AL HABSI</text>
+    <text x="360" y="66" fill="rgba(230,233,238,0.55)" font-size="13">oil trader · Oman</text>
+    <line x1="360" y1="81" x2="123" y2="125" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="360" y1="81" x2="360" y2="125" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="360" y1="81" x2="597" y2="125" stroke="rgba(255,255,255,0.25)"/>
+    <rect x="10" y="125" width="226" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="123" y="154" fill="#e6e9ee" font-size="14.5">Nimr International LLC</text>
+    <text x="123" y="177" fill="rgba(230,233,238,0.55)" font-size="12.5">Oman · Iraq · UAE</text>
+    <rect x="247" y="125" width="226" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="154" fill="#e6e9ee" font-size="14.5">Nimr International SRL</text>
+    <text x="360" y="177" fill="rgba(230,233,238,0.55)" font-size="12.5">Romania</text>
+    <rect x="484" y="125" width="226" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="597" y="154" fill="#e6e9ee" font-size="14.5">Bravery Maritime Corp</text>
+    <text x="597" y="177" fill="rgba(230,233,238,0.55)" font-size="12.5">Liberia · Dubai</text>
+    <line x1="123" y1="199" x2="123" y2="255" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="597" y1="199" x2="597" y2="255" stroke="rgba(255,255,255,0.25)"/>
+    <rect x="10" y="255" width="226" height="66" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="123" y="282" fill="#e6e9ee" font-size="14.5">Orbit Petrochemicals</text>
+    <text x="123" y="304" fill="rgba(230,233,238,0.55)" font-size="12.5">Oman · trading arm</text>
+    <rect x="484" y="255" width="226" height="66" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="597" y="282" fill="#e6e9ee" font-size="14.5">M/T Oman Pride</text>
+    <text x="597" y="304" fill="rgba(230,233,238,0.55)" font-size="12.5">IMO 9153525</text>
+    <rect x="10" y="380" width="320" height="60" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="170" y="405" fill="#e6e9ee" font-size="15">WANG SHAOYUN</text>
+    <text x="170" y="426" fill="rgba(230,233,238,0.55)" font-size="12.5">front companies · Las Vegas · HK</text>
+    <rect x="390" y="380" width="320" height="60" rx="6" fill="none" stroke="#ff6e40" stroke-dasharray="5 3"/>
+    <text x="550" y="405" fill="#ff6e40" font-size="15">IRGC-QODS FORCE · Ghasemi</text>
+    <text x="550" y="426" fill="rgba(255,110,64,0.75)" font-size="12.5">the client · 70% split</text>
+    <line x1="330" y1="410" x2="390" y2="410" stroke="#ff6e40" stroke-dasharray="5 3" opacity="0.5"/>
   </g>
 </svg>
 
@@ -83,53 +83,52 @@ Rewards for Justice names eight vessels. The indictment shows how they were actu
 
 The Iranian ships never approach the buyer. The foreign ships never (on paper) touch Iran. The only place the two sides meet is mid-ocean, engine to engine:
 
-<svg viewBox="0 0 960 330" width="100%" role="img" aria-label="Cargo flow and money flow of the scheme" style="max-width:960px">
+<svg viewBox="0 0 720 880" width="100%" role="img" aria-label="Cargo flow and money flow of the scheme" style="max-width:720px">
   <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <rect x="10" y="20" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="95" y="49" fill="#e6e9ee" font-size="13.5">IRANIAN TERMINALS</text>
-    <text x="95" y="70" fill="rgba(230,233,238,0.55)" font-size="11.5">Kharg · Sirri</text>
-    <line x1="182" y1="57" x2="196" y2="57" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="196,52 206,57 196,62" fill="rgba(255,255,255,0.4)"/>
-    <rect x="200" y="20" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="285" y="49" fill="#e6e9ee" font-size="13.5">NITC TANKERS</text>
-    <text x="285" y="70" fill="rgba(230,233,238,0.55)" font-size="11.5">Dino I · Dune</text>
-    <line x1="372" y1="57" x2="386" y2="57" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="386,52 396,57 386,62" fill="rgba(255,255,255,0.4)"/>
-    <rect x="390" y="20" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40" stroke-dasharray="5 3"/>
-    <text x="475" y="49" fill="#ff6e40" font-size="13.5">STS AT SEA</text>
-    <text x="475" y="70" fill="rgba(255,110,64,0.75)" font-size="11.5">AIS dark</text>
-    <line x1="562" y1="57" x2="576" y2="57" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="576,52 586,57 576,62" fill="rgba(255,255,255,0.4)"/>
-    <rect x="580" y="20" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="665" y="49" fill="#e6e9ee" font-size="13.5">COMMERCIAL TANKERS</text>
-    <text x="665" y="70" fill="rgba(230,233,238,0.55)" font-size="11.5">Oman Pride · Niovi · Carmen</text>
-    <line x1="752" y1="57" x2="766" y2="57" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="766,52 776,57 766,62" fill="rgba(255,255,255,0.4)"/>
-    <rect x="770" y="20" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="855" y="49" fill="#e6e9ee" font-size="13.5">CHINESE PORTS</text>
-    <text x="855" y="70" fill="rgba(230,233,238,0.55)" font-size="11.5">Yantai · Lanshan</text>
-    <line x1="855" y1="94" x2="855" y2="160" stroke="rgba(255,255,255,0.3)" stroke-dasharray="4 3"/>
-    <polygon points="850,160 855,170 860,160" fill="rgba(255,255,255,0.3)"/>
-    <text x="480" y="135" fill="rgba(230,233,238,0.45)" font-size="12">cargo flows east · paper says "Oman"</text>
-    <rect x="770" y="176" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="855" y="205" fill="#e6e9ee" font-size="13.5">CHINESE BUYERS</text>
-    <text x="855" y="226" fill="rgba(230,233,238,0.55)" font-size="11.5">state-owned refineries</text>
-    <line x1="768" y1="213" x2="754" y2="213" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="754,208 744,213 754,218" fill="rgba(255,255,255,0.4)"/>
-    <rect x="580" y="176" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40"/>
-    <text x="665" y="205" fill="#e6e9ee" font-size="13.5">US BANKS</text>
-    <text x="665" y="226" fill="#ff6e40" font-size="11.5">$8.5M BLOCKED · Jul 1 2021</text>
-    <line x1="578" y1="213" x2="564" y2="213" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="564,208 554,213 564,218" fill="rgba(255,255,255,0.4)"/>
-    <rect x="390" y="176" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="475" y="205" fill="#e6e9ee" font-size="13.5">SHELLS</text>
-    <text x="475" y="226" fill="rgba(230,233,238,0.55)" font-size="11.5">Marshall Is · UK · HK</text>
-    <line x1="388" y1="213" x2="374" y2="213" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="374,208 364,213 374,218" fill="rgba(255,255,255,0.4)"/>
-    <rect x="200" y="176" width="170" height="74" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="285" y="205" fill="#e6e9ee" font-size="13.5">SPLIT 70 / 30</text>
-    <text x="285" y="226" fill="rgba(230,233,238,0.55)" font-size="11.5">IRGC-QF / Wang</text>
-    <text x="480" y="300" fill="rgba(230,233,238,0.45)" font-size="12">money flows west — and the dollar node is where it died</text>
+    <rect x="140" y="10" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="38" fill="#e6e9ee" font-size="17">IRANIAN TERMINALS</text>
+    <text x="360" y="60" fill="rgba(230,233,238,0.55)" font-size="14">Kharg · Sirri</text>
+    <line x1="360" y1="74" x2="360" y2="90" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,90 360,102 366,90" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="104" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="132" fill="#e6e9ee" font-size="17">NITC TANKERS</text>
+    <text x="360" y="154" fill="rgba(230,233,238,0.55)" font-size="14">Dino I · Dune</text>
+    <line x1="360" y1="168" x2="360" y2="184" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,184 360,196 366,184" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="198" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40" stroke-dasharray="5 3"/>
+    <text x="360" y="226" fill="#ff6e40" font-size="17">STS AT SEA</text>
+    <text x="360" y="248" fill="rgba(255,110,64,0.8)" font-size="14">AIS dark</text>
+    <line x1="360" y1="262" x2="360" y2="278" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,278 360,290 366,278" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="292" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="320" fill="#e6e9ee" font-size="17">COMMERCIAL TANKERS</text>
+    <text x="360" y="342" fill="rgba(230,233,238,0.55)" font-size="14">Oman Pride · Niovi · Carmen</text>
+    <line x1="360" y1="356" x2="360" y2="372" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,372 360,384 366,372" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="386" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="414" fill="#e6e9ee" font-size="17">CHINESE PORTS</text>
+    <text x="360" y="436" fill="rgba(230,233,238,0.55)" font-size="14">Yantai · Lanshan · Qingdao</text>
+    <text x="360" y="474" fill="rgba(230,233,238,0.45)" font-size="13">cargo flows east · paper says "Oman"</text>
+    <line x1="360" y1="486" x2="360" y2="502" stroke="rgba(255,255,255,0.3)" stroke-dasharray="4 3"/>
+    <polygon points="354,502 360,514 366,502" fill="rgba(255,255,255,0.3)"/>
+    <rect x="140" y="518" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="546" fill="#e6e9ee" font-size="17">CHINESE BUYERS</text>
+    <text x="360" y="568" fill="rgba(230,233,238,0.55)" font-size="14">state-owned refineries</text>
+    <line x1="360" y1="582" x2="360" y2="598" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,598 360,610 366,598" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="614" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40"/>
+    <text x="360" y="642" fill="#e6e9ee" font-size="17">US BANKS</text>
+    <text x="360" y="664" fill="#ff6e40" font-size="14">$8.5M BLOCKED · Jul 1 2021</text>
+    <line x1="360" y1="678" x2="360" y2="694" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,694 360,706 366,694" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="710" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="738" fill="#e6e9ee" font-size="17">SHELLS</text>
+    <text x="360" y="760" fill="rgba(230,233,238,0.55)" font-size="14">Marshall Is · UK · HK</text>
+    <line x1="360" y1="774" x2="360" y2="790" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="354,790 360,802 366,790" fill="rgba(255,255,255,0.4)"/>
+    <rect x="140" y="806" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="360" y="834" fill="#e6e9ee" font-size="17">SPLIT 70 / 30</text>
+    <text x="360" y="856" fill="rgba(230,233,238,0.55)" font-size="14">IRGC-QF / Wang</text>
   </g>
 </svg>
 
@@ -187,37 +186,38 @@ Here is the part that makes the case a classic. The star tanker — IMO **915352
 
 Nine names, six flags, one IMO number — which never changes, and which is how anyone paying attention keeps finding it:
 
-<svg viewBox="0 0 960 300" width="100%" role="img" aria-label="Rename timeline of IMO 9153525" style="max-width:960px">
-  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <line x1="30" y1="150" x2="930" y2="150" stroke="rgba(255,255,255,0.3)"/>
-    <circle cx="60" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="60" y="112" fill="#e6e9ee" font-size="13">FRONT VISTA</text>
-    <text x="60" y="93" fill="rgba(230,233,238,0.5)" font-size="11">2004 · Marshall Is</text>
-    <circle cx="165" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="165" y="192" fill="#e6e9ee" font-size="13">DEWI MAESWARA</text>
-    <text x="165" y="211" fill="rgba(230,233,238,0.5)" font-size="11">2010 · Indonesia</text>
-    <circle cx="270" cy="150" r="6" fill="#ff6e40"/>
-    <text x="270" y="112" fill="#ff6e40" font-size="13">OMAN PRIDE</text>
-    <text x="270" y="93" fill="rgba(255,110,64,0.75)" font-size="11">2020 · Liberia · OFAC 2021</text>
-    <circle cx="375" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="375" y="192" fill="#e6e9ee" font-size="13">PRIDE</text>
-    <text x="375" y="211" fill="rgba(230,233,238,0.5)" font-size="11">2022 · St Kitts</text>
-    <circle cx="480" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="480" y="112" fill="#e6e9ee" font-size="13">RIDER 1</text>
-    <text x="480" y="93" fill="rgba(230,233,238,0.5)" font-size="11">2022 · Palau</text>
-    <circle cx="585" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="585" y="192" fill="#e6e9ee" font-size="13">LEMUR</text>
-    <text x="585" y="211" fill="rgba(230,233,238,0.5)" font-size="11">2023 · Cameroon</text>
-    <circle cx="690" cy="150" r="6" fill="#ff6e40"/>
-    <text x="690" y="112" fill="#ff6e40" font-size="13">LYDYA N</text>
-    <text x="690" y="93" fill="rgba(255,110,64,0.75)" font-size="11">2023 · Palau · OFAC 2025</text>
-    <circle cx="795" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="795" y="192" fill="#e6e9ee" font-size="13">LILLIAN</text>
-    <text x="795" y="211" fill="rgba(230,233,238,0.5)" font-size="11">2025</text>
-    <circle cx="900" cy="150" r="5" fill="rgba(255,255,255,0.4)"/>
-    <text x="900" y="112" fill="#e6e9ee" font-size="13">SOKOLO</text>
-    <text x="900" y="93" fill="rgba(230,233,238,0.5)" font-size="11">2026</text>
-    <text x="480" y="268" fill="rgba(230,233,238,0.5)" font-size="12">IMO 9153525 — one hull, one number, nine names</text>
+<svg viewBox="0 0 720 760" width="100%" role="img" aria-label="Rename timeline of IMO 9153525" style="max-width:720px">
+  <g font-family="JetBrains Mono, monospace">
+    <line x1="60" y1="20" x2="60" y2="660" stroke="rgba(255,255,255,0.3)"/>
+    <circle cx="60" cy="50" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="46" fill="#e6e9ee" font-size="16">FRONT VISTA</text>
+    <text x="85" y="66" fill="rgba(230,233,238,0.5)" font-size="13">2004 · Marshall Is</text>
+    <circle cx="60" cy="122" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="118" fill="#e6e9ee" font-size="16">DEWI MAESWARA</text>
+    <text x="85" y="138" fill="rgba(230,233,238,0.5)" font-size="13">2010 · Indonesia</text>
+    <circle cx="60" cy="194" r="7" fill="#ff6e40"/>
+    <text x="85" y="190" fill="#ff6e40" font-size="16">OMAN PRIDE</text>
+    <text x="85" y="210" fill="rgba(255,110,64,0.8)" font-size="13">2020 · Liberia · OFAC designates 2021</text>
+    <circle cx="60" cy="266" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="262" fill="#e6e9ee" font-size="16">PRIDE</text>
+    <text x="85" y="282" fill="rgba(230,233,238,0.5)" font-size="13">2022 · St Kitts</text>
+    <circle cx="60" cy="338" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="334" fill="#e6e9ee" font-size="16">RIDER 1</text>
+    <text x="85" y="354" fill="rgba(230,233,238,0.5)" font-size="13">2022 · Palau</text>
+    <circle cx="60" cy="410" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="406" fill="#e6e9ee" font-size="16">LEMUR</text>
+    <text x="85" y="426" fill="rgba(230,233,238,0.5)" font-size="13">2023 · Cameroon</text>
+    <circle cx="60" cy="482" r="7" fill="#ff6e40"/>
+    <text x="85" y="478" fill="#ff6e40" font-size="16">LYDYA N</text>
+    <text x="85" y="498" fill="rgba(255,110,64,0.8)" font-size="13">2023 · Palau · OFAC designates again 2025</text>
+    <circle cx="60" cy="554" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="550" fill="#e6e9ee" font-size="16">LILLIAN</text>
+    <text x="85" y="570" fill="rgba(230,233,238,0.5)" font-size="13">2025</text>
+    <circle cx="60" cy="626" r="5" fill="rgba(255,255,255,0.4)"/>
+    <text x="85" y="622" fill="#e6e9ee" font-size="16">SOKOLO</text>
+    <text x="85" y="642" fill="rgba(230,233,238,0.5)" font-size="13">2026</text>
+    <text x="60" y="720" fill="rgba(230,233,238,0.5)" font-size="14" text-anchor="middle">IMO 9153525</text>
+    <text x="60" y="742" fill="rgba(230,233,238,0.5)" font-size="14" text-anchor="middle">one hull · one number · nine names</text>
   </g>
 </svg>
 
