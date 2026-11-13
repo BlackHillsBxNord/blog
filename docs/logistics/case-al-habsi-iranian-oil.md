@@ -28,6 +28,43 @@ The window ran December 2019 to July 2021. The scale the indictment pleads: an a
 
 Before a single barrel moved, the network built its ownership maze — the "scrub the identity" layer from the 101 post, precisely mapped by OFAC's designation:
 
+<svg viewBox="0 0 920 330" width="100%" role="img" aria-label="Corporate graph of the Al Habsi network" style="max-width:920px">
+  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
+    <rect x="360" y="20" width="200" height="46" rx="6" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.3)"/>
+    <text x="460" y="40" fill="#e6e9ee" font-size="13">AL HABSI</text>
+    <text x="460" y="56" fill="rgba(230,233,238,0.55)" font-size="10">oil trader · Oman</text>
+    <line x1="460" y1="66" x2="130" y2="110" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="460" y1="66" x2="460" y2="110" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="460" y1="66" x2="760" y2="110" stroke="rgba(255,255,255,0.25)"/>
+    <rect x="20" y="110" width="220" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="130" y="132" fill="#e6e9ee" font-size="12">Nimr International LLC</text>
+    <text x="130" y="150" fill="rgba(230,233,238,0.55)" font-size="10">Oman · Iraq · UAE</text>
+    <rect x="350" y="110" width="220" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="460" y="132" fill="#e6e9ee" font-size="12">Nimr International SRL</text>
+    <text x="460" y="150" fill="rgba(230,233,238,0.55)" font-size="10">Romania</text>
+    <rect x="650" y="110" width="220" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="760" y="132" fill="#e6e9ee" font-size="12">Bravery Maritime Corp</text>
+    <text x="760" y="150" fill="rgba(230,233,238,0.55)" font-size="10">Liberia · Dubai</text>
+    <line x1="130" y1="168" x2="130" y2="210" stroke="rgba(255,255,255,0.25)"/>
+    <line x1="760" y1="168" x2="760" y2="210" stroke="rgba(255,255,255,0.25)"/>
+    <rect x="20" y="210" width="220" height="50" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="130" y="231" fill="#e6e9ee" font-size="12">Orbit Petrochemicals</text>
+    <text x="130" y="247" fill="rgba(230,233,238,0.55)" font-size="10">Oman · trading arm</text>
+    <rect x="650" y="210" width="220" height="50" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="760" y="231" fill="#e6e9ee" font-size="12">M/T Oman Pride</text>
+    <text x="760" y="247" fill="rgba(230,233,238,0.55)" font-size="10">IMO 9153525</text>
+    <rect x="20" y="282" width="280" height="40" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="160" y="300" fill="#e6e9ee" font-size="12">WANG SHAOYUN</text>
+    <text x="160" y="314" fill="rgba(230,233,238,0.55)" font-size="10">front companies · Las Vegas · HK</text>
+    <rect x="620" y="282" width="280" height="40" rx="6" fill="none" stroke="#ff6e40" stroke-dasharray="5 3"/>
+    <text x="760" y="300" fill="#ff6e40" font-size="12">IRGC-QODS FORCE · Ghasemi</text>
+    <text x="760" y="314" fill="rgba(255,110,64,0.7)" font-size="10">the client · 70% split</text>
+    <line x1="300" y1="302" x2="620" y2="302" stroke="#ff6e40" stroke-dasharray="5 3" opacity="0.5"/>
+  </g>
+</svg>
+
+The graph, as the indictment and OFAC tell it:
+
 - **Al Habsi** → **Nimr International L.L.C.** (Muscat; active branches in Iraq and the UAE) → **Orbit Petrochemicals Trading LLC** (Oman) — the trading stack
 - **Al Habsi** → **Bravery Maritime Corporation** (Liberia, addressed in Dubai) — the shipping vehicle, registered owner of the tanker
 - **Al Habsi** → **Nimr International S.R.L.** (Romania) — a European arm
@@ -44,7 +81,57 @@ Rewards for Justice names eight vessels. The indictment shows how they were actu
 | Iranian-flagged (NITC-operated) | *Dino I*, *Dune* | Lift the crude from Iranian terminals |
 | Foreign-flagged commercial | *Oman Pride*, *Niovi*, *Carmen*, *Athina II*, *Escapade* | Receive it at sea, carry it to China |
 
-The Iranian ships never approach the buyer. The foreign ships never (on paper) touch Iran. The only place the two sides meet is mid-ocean, engine to engine.
+The Iranian ships never approach the buyer. The foreign ships never (on paper) touch Iran. The only place the two sides meet is mid-ocean, engine to engine:
+
+<svg viewBox="0 0 920 300" width="100%" role="img" aria-label="Cargo flow and money flow of the scheme" style="max-width:920px">
+  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
+    <rect x="10" y="28" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="90" y="51" fill="#e6e9ee" font-size="12">IRANIAN TERMINALS</text>
+    <text x="90" y="69" fill="rgba(230,233,238,0.55)" font-size="10">Kharg · Sirri</text>
+    <line x1="172" y1="57" x2="186" y2="57" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="186,53 194,57 186,61" fill="rgba(255,255,255,0.4)"/>
+    <rect x="196" y="28" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="276" y="51" fill="#e6e9ee" font-size="12">NITC TANKERS</text>
+    <text x="276" y="69" fill="rgba(230,233,238,0.55)" font-size="10">Dino I · Dune</text>
+    <line x1="358" y1="57" x2="372" y2="57" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="372,53 380,57 372,61" fill="rgba(255,255,255,0.4)"/>
+    <rect x="382" y="28" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40" stroke-dasharray="5 3"/>
+    <text x="462" y="51" fill="#ff6e40" font-size="12">STS AT SEA</text>
+    <text x="462" y="69" fill="rgba(255,110,64,0.7)" font-size="10">AIS dark</text>
+    <line x1="544" y1="57" x2="558" y2="57" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="558,53 566,57 558,61" fill="rgba(255,255,255,0.4)"/>
+    <rect x="568" y="28" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="648" y="51" fill="#e6e9ee" font-size="12">COMMERCIAL TANKERS</text>
+    <text x="648" y="69" fill="rgba(230,233,238,0.55)" font-size="10">Oman Pride · Niovi · Carmen</text>
+    <line x1="730" y1="57" x2="744" y2="57" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="744,53 752,57 744,61" fill="rgba(255,255,255,0.4)"/>
+    <rect x="754" y="28" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="834" y="51" fill="#e6e9ee" font-size="12">CHINESE PORTS</text>
+    <text x="834" y="69" fill="rgba(230,233,238,0.55)" font-size="10">Yantai · Lanshan</text>
+    <line x1="834" y1="86" x2="834" y2="136" stroke="rgba(255,255,255,0.3)" stroke-dasharray="4 3"/>
+    <polygon points="830,136 834,144 838,136" fill="rgba(255,255,255,0.3)"/>
+    <text x="460" y="120" fill="rgba(230,233,238,0.45)" font-size="10">cargo flows east · paper says "Oman"</text>
+    <rect x="754" y="148" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="834" y="171" fill="#e6e9ee" font-size="12">CHINESE BUYERS</text>
+    <text x="834" y="189" fill="rgba(230,233,238,0.55)" font-size="10">state-owned refineries</text>
+    <line x1="752" y1="177" x2="738" y2="177" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="738,173 730,177 738,181" fill="rgba(255,255,255,0.4)"/>
+    <rect x="568" y="148" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40"/>
+    <text x="648" y="171" fill="#e6e9ee" font-size="12">US BANKS</text>
+    <text x="648" y="189" fill="#ff6e40" font-size="10">$8.5M BLOCKED · Jul 1 2021</text>
+    <line x1="566" y1="177" x2="552" y2="177" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="552,173 544,177 552,181" fill="rgba(255,255,255,0.4)"/>
+    <rect x="382" y="148" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="462" y="171" fill="#e6e9ee" font-size="12">SHELLS</text>
+    <text x="462" y="189" fill="rgba(230,233,238,0.55)" font-size="10">Marshall Is · UK · HK</text>
+    <line x1="380" y1="177" x2="366" y2="177" stroke="rgba(255,255,255,0.4)"/>
+    <polygon points="366,173 358,177 366,181" fill="rgba(255,255,255,0.4)"/>
+    <rect x="196" y="148" width="160" height="58" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+    <text x="276" y="171" fill="#e6e9ee" font-size="12">SPLIT 70 / 30</text>
+    <text x="276" y="189" fill="rgba(230,233,238,0.55)" font-size="10">IRGC-QF / Wang</text>
+    <text x="460" y="240" fill="rgba(230,233,238,0.45)" font-size="10">money flows west — and the dollar node is where it died</text>
+  </g>
+</svg>
 
 ## The operations, voyage by voyage
 
@@ -98,7 +185,43 @@ Here is the part that makes the case a classic. The star tanker — IMO **915352
 
 **Oman Pride** (2020, Liberia) → *Pride* (2022, St Kitts) → *Rider 1* (2022, Palau) → *Lemur* (2023, Cameroon) → *Lydya N* (2023, Palau) → *Lillian* (2025) → *Sokolo* (2026)
 
-Nine names, six flags, one IMO number — which never changes, and which is how anyone paying attention keeps finding it. In March 2025, OFAC **designated the same hull again** — now called *Lydya N*, now property of a Seychelles shell, in the same action that hit Iran's oil minister and the Russia-linked shadow fleet. Per Ukraine's sanctions registry, it was later sold to a Crimea-linked owner. A tanker built for one evasion economy graduated into another. One hull, two wars.
+Nine names, six flags, one IMO number — which never changes, and which is how anyone paying attention keeps finding it:
+
+<svg viewBox="0 0 920 250" width="100%" role="img" aria-label="Rename timeline of IMO 9153525" style="max-width:920px">
+  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
+    <line x1="30" y1="125" x2="890" y2="125" stroke="rgba(255,255,255,0.3)"/>
+    <circle cx="60" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="60" y="95" fill="#e6e9ee" font-size="11">FRONT VISTA</text>
+    <text x="60" y="80" fill="rgba(230,233,238,0.5)" font-size="9">2004 · Marshall Is</text>
+    <circle cx="160" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="160" y="165" fill="#e6e9ee" font-size="11">DEWI MAESWARA</text>
+    <text x="160" y="180" fill="rgba(230,233,238,0.5)" font-size="9">2010 · Indonesia</text>
+    <circle cx="260" cy="125" r="5" fill="#ff6e40"/>
+    <text x="260" y="95" fill="#ff6e40" font-size="11">OMAN PRIDE</text>
+    <text x="260" y="80" fill="rgba(255,110,64,0.75)" font-size="9">2020 · Liberia · OFAC 2021</text>
+    <circle cx="360" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="360" y="165" fill="#e6e9ee" font-size="11">PRIDE</text>
+    <text x="360" y="180" fill="rgba(230,233,238,0.5)" font-size="9">2022 · St Kitts</text>
+    <circle cx="460" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="460" y="95" fill="#e6e9ee" font-size="11">RIDER 1</text>
+    <text x="460" y="80" fill="rgba(230,233,238,0.5)" font-size="9">2022 · Palau</text>
+    <circle cx="560" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="560" y="165" fill="#e6e9ee" font-size="11">LEMUR</text>
+    <text x="560" y="180" fill="rgba(230,233,238,0.5)" font-size="9">2023 · Cameroon</text>
+    <circle cx="660" cy="125" r="5" fill="#ff6e40"/>
+    <text x="660" y="95" fill="#ff6e40" font-size="11">LYDYA N</text>
+    <text x="660" y="80" fill="rgba(255,110,64,0.75)" font-size="9">2023 · Palau · OFAC 2025</text>
+    <circle cx="760" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="760" y="165" fill="#e6e9ee" font-size="11">LILLIAN</text>
+    <text x="760" y="180" fill="rgba(230,233,238,0.5)" font-size="9">2025</text>
+    <circle cx="860" cy="125" r="4" fill="rgba(255,255,255,0.4)"/>
+    <text x="860" y="95" fill="#e6e9ee" font-size="11">SOKOLO</text>
+    <text x="860" y="80" fill="rgba(230,233,238,0.5)" font-size="9">2026</text>
+    <text x="460" y="235" fill="rgba(230,233,238,0.5)" font-size="10">IMO 9153525 — one hull, one number, nine names</text>
+  </g>
+</svg>
+
+In March 2025, OFAC **designated the same hull again** — now called *Lydya N*, now property of a Seychelles shell, in the same action that hit Iran's oil minister and the Russia-linked shadow fleet. Per Ukraine's sanctions registry, it was later sold to a Crimea-linked owner. A tanker built for one evasion economy graduated into another. One hull, two wars.
 
 The other vessels scattered similarly: NITC's *Dino I* and *Dune* were separately designated (2024, 2025) for Iran-related transfers; the *Carmen* sails today under yet another name; the *Niovi* — Greek-owned, Panama-flagged — was **seized by Iran's own IRGC Navy in the Strait of Hormuz in May 2023**, while reportedly entangled in a legal dispute with Al Habsi's Nimr International over a suspect cargo. In this world, even the subcontractors get hijacked.
 
