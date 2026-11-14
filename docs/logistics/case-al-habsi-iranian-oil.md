@@ -83,14 +83,14 @@ Four jurisdictions to incorporate in, none of them the one where the cargo was b
 
 ## The fleet
 
-Rewards for Justice names eight vessels. The indictment shows how they were actually used — and the split is the interesting part:
+Rewards for Justice lists the vessels below. The indictment shows how they were actually used — and the split is the interesting part:
 
 | Side | Vessels | Job |
 |---|---|---|
 | Iranian-flagged (NITC-operated) | *Dino I*, *Dune* | Lift the crude from Iranian terminals |
-| Foreign-flagged commercial | *Oman Pride*, *Niovi*, *Carmen*, *Athina II*, *Escapade* | Receive it at sea, carry it to China |
+| Foreign-flagged commercial | *Oman Pride*, *Niovi*, *Carmen*, *Athina II*, *Escapade* | Buffer, receive at sea, or load direct and run dark to China |
 
-The buyer's ships never touch Iran. The buffer ship does — and the handoff happens at sea, engine to engine. Kharg and Sirri load the *Oman Pride*; somewhere around the Gulf of Oman the cargo crosses into the *Niovi*, the *Carmen*, and the *Escapade*, which carry it on to China as 'Omani' crude:
+The buyer's ships never touch Iran. The buffer ship does — and the handoff happens at sea, engine to engine. Kharg and Sirri load the *Oman Pride*; somewhere around the Gulf of Oman the cargo crosses into the *Niovi* and the *Carmen*, which carry it on to China as 'Omani' crude. The *Escapade* skipped the handoff — it loaded directly and sailed dark:
 
 <svg viewBox="0 0 720 656" width="100%" role="img" aria-label="Route map of the Al Habsi network: the Oman Pride loads at Sirri and Kharg, hands off ship-to-ship near Hormuz to the Niovi (to Yantai) and the Carmen (to Lanshan); the Escapade sails dark toward Qingdao. Below, the money path from Chinese buyers through US banks, where an 8.5 million dollar wire was blocked on 1 July 2021." style="max-width:720px">
   <defs>
