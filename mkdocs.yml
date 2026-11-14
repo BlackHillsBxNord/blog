@@ -48,6 +48,7 @@ nav:
   - Logistics:
       - logistics/index.md
       - Logistics 101: logistics/logistics-101.md
+      - Case Study — The Al Habsi Network: logistics/case-al-habsi-iranian-oil.md
   - Tags: tags.md
 
 exclude_docs: |
