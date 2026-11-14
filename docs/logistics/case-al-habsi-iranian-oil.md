@@ -92,52 +92,53 @@ Rewards for Justice names eight vessels. The indictment shows how they were actu
 
 The Iranian ships never approach the buyer. The foreign ships never (on paper) touch Iran. The only place the two sides meet is mid-ocean, engine to engine:
 
-<svg viewBox="0 0 720 880" width="100%" role="img" aria-label="Cargo flow and money flow of the scheme" style="max-width:720px">
-  <g font-family="JetBrains Mono, monospace" text-anchor="middle">
-    <rect x="140" y="10" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="38" fill="#e6e9ee" font-size="17">IRANIAN TERMINALS</text>
-    <text x="360" y="60" fill="rgba(230,233,238,0.55)" font-size="14">Kharg · Sirri</text>
-    <line x1="360" y1="74" x2="360" y2="90" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,90 360,102 366,90" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="104" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="132" fill="#e6e9ee" font-size="17">NITC TANKERS</text>
-    <text x="360" y="154" fill="rgba(230,233,238,0.55)" font-size="14">Dino I · Dune</text>
-    <line x1="360" y1="168" x2="360" y2="184" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,184 360,196 366,184" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="198" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40" stroke-dasharray="5 3"/>
-    <text x="360" y="226" fill="#ff6e40" font-size="17">STS AT SEA</text>
-    <text x="360" y="248" fill="rgba(255,110,64,0.8)" font-size="14">AIS dark</text>
-    <line x1="360" y1="262" x2="360" y2="278" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,278 360,290 366,278" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="292" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="320" fill="#e6e9ee" font-size="17">COMMERCIAL TANKERS</text>
-    <text x="360" y="342" fill="rgba(230,233,238,0.55)" font-size="14">Oman Pride · Niovi · Carmen</text>
-    <line x1="360" y1="356" x2="360" y2="372" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,372 360,384 366,372" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="386" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="414" fill="#e6e9ee" font-size="17">CHINESE PORTS</text>
-    <text x="360" y="436" fill="rgba(230,233,238,0.55)" font-size="14">Yantai · Lanshan · Qingdao</text>
-    <text x="360" y="474" fill="rgba(230,233,238,0.45)" font-size="13">cargo flows east · paper says "Oman"</text>
-    <line x1="360" y1="486" x2="360" y2="502" stroke="rgba(255,255,255,0.3)" stroke-dasharray="4 3"/>
-    <polygon points="354,502 360,514 366,502" fill="rgba(255,255,255,0.3)"/>
-    <rect x="140" y="518" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="546" fill="#e6e9ee" font-size="17">CHINESE BUYERS</text>
-    <text x="360" y="568" fill="rgba(230,233,238,0.55)" font-size="14">state-owned refineries</text>
-    <line x1="360" y1="582" x2="360" y2="598" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,598 360,610 366,598" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="614" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40"/>
-    <text x="360" y="642" fill="#e6e9ee" font-size="17">US BANKS</text>
-    <text x="360" y="664" fill="#ff6e40" font-size="14">$8.5M BLOCKED · Jul 1 2021</text>
-    <line x1="360" y1="678" x2="360" y2="694" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,694 360,706 366,694" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="710" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="738" fill="#e6e9ee" font-size="17">SHELLS</text>
-    <text x="360" y="760" fill="rgba(230,233,238,0.55)" font-size="14">Marshall Is · UK · HK</text>
-    <line x1="360" y1="774" x2="360" y2="790" stroke="rgba(255,255,255,0.4)"/>
-    <polygon points="354,790 360,802 366,790" fill="rgba(255,255,255,0.4)"/>
-    <rect x="140" y="806" width="440" height="64" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
-    <text x="360" y="834" fill="#e6e9ee" font-size="17">SPLIT 70 / 30</text>
-    <text x="360" y="856" fill="rgba(230,233,238,0.55)" font-size="14">IRGC-QF / Wang</text>
+<svg viewBox="0 0 720 515" width="100%" role="img" aria-label="Route map of the scheme and money flow" style="max-width:720px">
+  <g font-family="JetBrains Mono, monospace">
+    <rect x="0" y="0" width="720" height="380" fill="rgba(255,255,255,0.015)" stroke="rgba(255,255,255,0.12)"/>
+    <path d="M25,90 L45,115 L75,150 L100,162" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
+    <path d="M104,178 L70,190 L40,178 L20,150 L28,205 L55,262 L110,222 L150,224 L180,242 L212,272 L242,300 L268,322 L292,334 L308,324 L332,308 L352,288 L366,268 L382,252 L396,272 L428,312 L452,346 L462,380 L474,352 L492,332 L512,318 L536,314 L562,312 L592,300 L612,280 L632,242 L652,192 L666,142 L677,96 L690,72 L696,40" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
+    <text x="62" y="118" fill="rgba(230,233,238,0.35)" font-size="11" text-anchor="middle">PERSIAN GULF</text>
+    <text x="250" y="300" fill="rgba(230,233,238,0.3)" font-size="11" text-anchor="middle">INDIAN OCEAN</text>
+    <text x="580" y="248" fill="rgba(230,233,238,0.3)" font-size="11" text-anchor="middle">SOUTH CHINA SEA</text>
+    <text x="96" y="176" fill="rgba(230,233,238,0.3)" font-size="10" text-anchor="middle">HORMUZ</text>
+    <circle cx="48" cy="142" r="5" fill="rgba(255,255,255,0.6)"/>
+    <text x="58" y="138" fill="#e6e9ee" font-size="13">KHARG</text>
+    <circle cx="86" cy="172" r="5" fill="rgba(255,255,255,0.6)"/>
+    <text x="96" y="192" fill="#e6e9ee" font-size="13">SIRRI</text>
+    <path d="M48,142 Q80,150 104,168" fill="none" stroke="rgba(255,255,255,0.5)" stroke-width="2" stroke-dasharray="7 5"/>
+    <circle cx="117" cy="210" r="28" fill="none" stroke="#ff6e40" stroke-dasharray="6 4" stroke-width="2"/>
+    <text x="155" y="205" fill="#ff6e40" font-size="14">STS AT SEA</text>
+    <text x="155" y="223" fill="rgba(255,110,64,0.8)" font-size="12">AIS dark · engine to engine</text>
+    <path d="M104,168 Q140,195 180,220 T268,310 T308,320 T352,288 T392,262 T428,308 T452,344 Q462,362 476,350 T520,316 T592,298 T632,240 T660,150 T676,92" fill="none" stroke="rgba(255,255,255,0.5)" stroke-width="2" stroke-dasharray="7 5"/>
+    <polygon points="672,96 678,84 682,98" fill="rgba(255,255,255,0.6)"/>
+    <text x="205" y="255" fill="rgba(230,233,238,0.45)" font-size="11.5">Oman Pride → Niovi · Carmen</text>
+    <circle cx="679" cy="80" r="5" fill="rgba(255,255,255,0.6)"/>
+    <circle cx="688" cy="68" r="5" fill="rgba(255,255,255,0.6)"/>
+    <circle cx="670" cy="86" r="5" fill="rgba(255,255,255,0.6)"/>
+    <text x="655" y="62" fill="#e6e9ee" font-size="13" text-anchor="end">CHINESE PORTS</text>
+    <text x="655" y="80" fill="rgba(230,233,238,0.55)" font-size="12" text-anchor="end">Yantai · Lanshan · Qingdao</text>
+    <text x="360" y="368" fill="rgba(230,233,238,0.4)" font-size="11.5" text-anchor="middle">simplified coastlines — schematic, not to survey accuracy</text>
+    <g font-family="JetBrains Mono, monospace" text-anchor="middle">
+      <rect x="557" y="410" width="165" height="62" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+      <text x="639" y="435" fill="#e6e9ee" font-size="14.5">CHINESE BUYERS</text>
+      <text x="639" y="456" fill="rgba(230,233,238,0.55)" font-size="12">state-owned refineries</text>
+      <line x1="555" y1="441" x2="541" y2="441" stroke="rgba(255,255,255,0.4)"/>
+      <polygon points="541,436 531,441 541,446" fill="rgba(255,255,255,0.4)"/>
+      <rect x="374" y="410" width="165" height="62" rx="6" fill="rgba(255,255,255,0.04)" stroke="#ff6e40"/>
+      <text x="456" y="435" fill="#e6e9ee" font-size="14.5">US BANKS</text>
+      <text x="456" y="456" fill="#ff6e40" font-size="12">$8.5M BLOCKED · Jul 1 2021</text>
+      <line x1="372" y1="441" x2="358" y2="441" stroke="rgba(255,255,255,0.4)"/>
+      <polygon points="358,436 348,441 358,446" fill="rgba(255,255,255,0.4)"/>
+      <rect x="191" y="410" width="165" height="62" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+      <text x="273" y="435" fill="#e6e9ee" font-size="14.5">SHELLS</text>
+      <text x="273" y="456" fill="rgba(230,233,238,0.55)" font-size="12">Marshall Is · UK · HK</text>
+      <line x1="189" y1="441" x2="175" y2="441" stroke="rgba(255,255,255,0.4)"/>
+      <polygon points="175,436 165,441 175,446" fill="rgba(255,255,255,0.4)"/>
+      <rect x="8" y="410" width="165" height="62" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.25)"/>
+      <text x="90" y="435" fill="#e6e9ee" font-size="14.5">SPLIT 70 / 30</text>
+      <text x="90" y="456" fill="rgba(230,233,238,0.55)" font-size="12">IRGC-QF / Wang</text>
+      <text x="360" y="500" fill="rgba(230,233,238,0.45)" font-size="12">money flows west — and the dollar node is where it died</text>
+    </g>
   </g>
 </svg>
 
